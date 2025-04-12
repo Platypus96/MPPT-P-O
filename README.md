@@ -1,5 +1,9 @@
 # MPPT P&O (Maximum Power Point Tracking - Perturb & Observe)
 
+<p align="center">
+<img align="center" alt="coding" width="450" src="[https://github.com/Platypus96/decentralised_music_marketplace/blob/main/Marketplace.jpg](https://github.com/Platypus96/MPPT-P-O/blob/main/Screenshot%202025-04-12%20223556.png)">
+</p>
+
 This repository contains an implementation of an **MPPT controller** using the **Perturb and Observe (P&O)** algorithm. The system simulates and optimizes the power output from a photovoltaic (PV) system. The MPPT technique is crucial for maximizing the efficiency of solar power systems by adjusting the operating point of the system to ensure maximum power output.
 
 ## Features
